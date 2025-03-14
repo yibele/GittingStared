@@ -1,2 +1,3 @@
 var data = function(){
-return 't'}
+return "t"
+}
