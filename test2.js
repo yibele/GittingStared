@@ -1,1 +1,7 @@
-console.log('这是一个来自 GitHub 文件的简单问候消息！');
+module.exports = {
+    status: 'success',
+    data: {
+        message: '这是从 test2.js 返回的 JSON 数据',
+        count: 10
+    }
+};
